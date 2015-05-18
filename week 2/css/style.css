@@ -1,9 +1,13 @@
 body {
-	background: #75A3A3;
-	color: #fff;
+	background: #fff;
+	color: #000;
 	font-family: "Helvetica", sans-serif;
 }
 
 #slogan {
 	font-style: italic;
+}
+
+#container {
+	text-align: center;
 }
