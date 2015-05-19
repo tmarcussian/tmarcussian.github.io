@@ -4,11 +4,19 @@ body {
 	font-family: "Helvetica", sans-serif;
 }
 
+#header{
+	text-align: center;
+}
+
+#nav{
+	text-align: center;
+}
+
 #slogan {
 	font-style: italic;
 }
 
-#container {
+#main {
 	position: relative;
     text-align: center;
     padding-top: 50px
