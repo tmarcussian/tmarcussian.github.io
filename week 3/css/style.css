@@ -4,11 +4,11 @@ body {
 	font-family: "Helvetica", sans-serif;
 }
 
-#header{
+.header{
 	text-align: center;
 }
 
-#nav{
+.nav{
 	text-align: center;
 }
 
