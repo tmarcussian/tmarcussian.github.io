@@ -1,23 +1,19 @@
 body {
 	background: #fff;
-	color: #000;
-	font-family: "Helvetica", sans-serif;
+	color: #222;
+	font-family: "Helvetica", arial, sans-serif;
+	text-align:center;
 }
-
-.header{
-	text-align: center;
+main {
+	position: relative;
 }
-
-.nav{
-	text-align: center;
+header{
 }
-
+nav{
+}
+section{
+}
 #slogan {
 	font-style: italic;
 }
-
-#main {
-	position: relative;
-    text-align: center;
-    }
 
