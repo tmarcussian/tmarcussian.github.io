@@ -13,7 +13,7 @@ header{
 }
 nav{
 	font size: 11px
-	margin -80px;
+	margin: 30px, auto, 0px, 0px;
 	position: relative;
 	width: 940px;
 }
