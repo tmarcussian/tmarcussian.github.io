@@ -8,8 +8,14 @@ main {
 	position: relative;
 }
 header{
+	margin: 30px, auto, 0px, 0px;
+	width: 940px;
 }
 nav{
+	font size: 11px
+	margin -80px;
+	position: relative;
+	width: 940px;
 }
 section{
 }
