@@ -2,7 +2,7 @@
 
 body {
     background: #FFFFFF;
-    color: #000000;
+    color: #222;
     font-family: gotham, sans-serif;
     font-size: 13px;
     height: 100%;
@@ -12,27 +12,25 @@ body {
 
 #content_container {
     margin: 25px auto;
-    padding: 0px 0 0 80px;
+    padding: 0px 0 0 px;
     position: relative;
-    width: 1200px;
+    width: 1000px;
 }
 
 header {
 	border:1px solid #000; /* for visualization purposes */
-	margin-bottom:1em;
-	padding:2em 0;
 	float:	left;
 }
 
-nav a {
+nav	{
 	border:1px solid #000; /* for visualization purposes */
 	font size: 11px
 	float right;
+
 	
 }
 h2 {
-	margin-bottom:1em;
-	padding:2em 0;
+	
 }
 
 section {
@@ -44,9 +42,14 @@ figure {
 	
 }
 figure img {
-	
 
-#awesomeblock {
-	
+}
+
+#awesomeblock{
+	width: 1000px;
+
+}
+
+#bio{
 
 }
