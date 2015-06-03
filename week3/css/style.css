@@ -47,7 +47,7 @@ figure img {
 
 #awesomeblock{
 	width: 1000px;
-
+	float:	left;
 }
 
 #bio{
