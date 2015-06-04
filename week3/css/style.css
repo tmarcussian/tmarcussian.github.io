@@ -10,7 +10,7 @@ body {
     width: 100%;
 }
 
-#content_container {
+#wrapper {
     margin: 25px auto;
     padding: 0px 0 0 px;
     position: relative;
@@ -19,17 +19,15 @@ body {
 
 header {
 	border:1px solid #000; /* for visualization purposes */
-	float:	left;
+	float: left;
 }
 
 nav	{
-	border:1px solid #000; /* for visualization purposes */
 	font size: 11px
-	float right;
+	float: right;
 
-	
 }
-h2 {
+h1 {
 	
 }
 
@@ -47,9 +45,17 @@ figure img {
 
 #awesomeblock{
 	width: 1000px;
-	float:	left;
+	float: left;
 }
 
 #bio{
 
+}
+
+.clearfix:after { 
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
 }
