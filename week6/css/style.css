@@ -1,0 +1,33 @@
+body {
+	font-family: gotham, sans-serif;
+}
+
+nav {
+	float: right;
+	padding: 2em 7em 0 0 ;
+}
+
+a 	{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+header {
+	clear: fixed;
+}
+
+#wrapper {
+	background-color: #B2B2B2;
+	padding: 1em;
+	position: relative;
+	max-height: 100%;
+	max-width: 100%;	
+}
+
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
+}
