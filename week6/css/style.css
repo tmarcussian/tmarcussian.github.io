@@ -1,3 +1,7 @@
+body {
+	font-family: "Helvetica" sans-serif;
+}
+
 header {
 	background-color: #B2B2B2;
 	padding: .75em;
@@ -45,18 +49,23 @@ section#gallery div {
 	max-width: 100%;
 }
 
-section.columns {
+.columns {
 	float: left;
 	text-align: center;
+	margin: 12px;
 }
 
 section#care div {
 	background: #F3F3F4;
-	clear: both;
+	
 }
 
 .stepcolumns {
 	float: left;
+	padding: 6em;
+	border:1px solid #000; /* for visualization purposes */
+	max-width: 100%;
+	margin: 20px;
 }
 
 .circle{ 
