@@ -23,6 +23,15 @@ nav a	{
 	margin-right: 4em;
 }
 
+.button	{
+	font-family: "Helvetica", sans-serif;
+	padding: 30em;	
+	display: block;
+  	z-index: 100;
+  	position: absolute;
+  	color: #FACBCC;
+  	font-size: 20px;
+}
 section#bio div	{
 	background: #F3F3F4;
 	padding: 3em;
