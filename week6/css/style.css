@@ -1,8 +1,3 @@
-body {
-	font-family: gotham, sans-serif;
-
-}
-
 header {
 	background-color: #B2B2B2;
 	padding: .75em;
@@ -32,6 +27,7 @@ nav a	{
   	color: #FACBCC;
   	font-size: 20px;
 }
+
 section#bio div	{
 	background: #F3F3F4;
 	padding: 3em;
@@ -57,12 +53,12 @@ section.columns {
 section#care div {
 	background: #F3F3F4;
 	clear: both;
-
 }
 
 .stepcolumns {
-	float:;
+	float: left;
 }
+
 .circle{ 
 	width: 100%;
 	height: 100%;
@@ -97,7 +93,6 @@ a:hover {
 
 footer {
 	background: #C6C8CA
-	clear: both;
 }
 
 .clearfix:after { 
