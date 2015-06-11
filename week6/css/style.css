@@ -1,5 +1,9 @@
+section>div {
+	margin: auto;
+}
 body {
 	font-family: "Helvetica" sans-serif;
+	color: #222;
 }
 
 header {
@@ -22,11 +26,18 @@ nav a	{
 	margin-right: 4em;
 }
 
-section#splash div {
-	background-image: url("images/splash.png");
+section#splash {
+	height: 500pt;
+	width: ;
+	background-image: url("http://tmarcussian.github.io/week6/images/splash.png");
 	background-repeat: no-repeat;
-	height: 100%;
+	background-size: cover;	
+}
 
+section#splash div {
+	width: 50%
+	text-align: center;
+	padding: 15em;
 }
 
 .button	{
@@ -44,25 +55,40 @@ section#bio div	{
 	padding: 3em;
 	line-height: 2em;
 }
-
+section#bio p {
+	font-size: 22px;
+}
 section#bonsai div {
 	padding: 1em;
 	background: #FACBCC;
 	max-width: 100%;
-	float: left;
+	float: left;	
 }
-section#gallery div {
-	padding: 1em;
-	max-width: 100%;
+section#bonsai img {
+	width: 50%;
+	float: left;
+	padding: 2em;
+}
+section#bonsai p {
+	font-size: 22px;
+	color: #FFFFFF;
+	padding: 2em;
+
+}
+section#columns {
+	max-width: 1200px;
+	margin: 25px;
 }
 
 figure {
 	float: left;
 	text-align: center;
 	margin: 12px;
+	padding: 1.5em;
+	position: center;
 }
 
-section#care div {
+section#care  {
 	background: #F3F3F4;
 	
 }
@@ -70,9 +96,9 @@ section#care div {
 .stepcolumns {
 	float: left;
 	padding: 6em;
-	border:1px solid #000; /* for visualization purposes */
-	max-width: 100%;
-	margin: 20px;
+	width: 10%;
+	margin: 10px;
+	padding-top: 3em;
 }
 
 .circle{ 
@@ -90,9 +116,10 @@ h1 {
 	font-family: "Helvetica", sans-serif;
 	display: block;
   	z-index: 100;
-  	position: absolute;
+  	position: relative;
   	color: #FACBCC;
-  	font-size: 46px;
+  	font-size: 42px;
+  	text-align: center;
 }
 	
 h2 {
@@ -106,7 +133,8 @@ a:hover {
 }
 
 footer {
-	background: #C6C8CA
+	background: #98CBB6;
+	
 }
 
 .clearfix:after { 
