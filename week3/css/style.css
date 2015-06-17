@@ -14,12 +14,12 @@ body {
     margin: 25px auto;
     padding: 0px 0 0 px;
     position: relative;
-    width: 100px;
+    width: 1000px;
 }
 
 header {
   border:1px solid #000; /* for visualization purposes */
-  float: left;
+  
 }
 
 nav {
