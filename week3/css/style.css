@@ -10,15 +10,14 @@ body {
     width: 100%;
 }
 
-#wrapper {
+.wrapper {
     margin: 25px auto;
-    padding: 0px 0 0 px;
     position: relative;
     width: 1000px;
 }
 
 header {
-  border:1px solid #000; /* for visualization purposes */
+  
 }
 
 nav {
