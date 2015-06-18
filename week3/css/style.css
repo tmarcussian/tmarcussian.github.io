@@ -5,54 +5,73 @@ body {
     color: #222;
     font-family: gotham, sans-serif;
     font-size: 13px;
-    height: 100%;
     line-height: 1.5;
-    width: 100%;
+    
 }
 
 .wrapper {
     margin: 25px auto;
     position: relative;
     width: 1000px;
+    max-width: 100%;
+
 }
 
 header {
-  
+  position: relative; 
+  display: block;
+  border-bottom: 1px solid #DBD9D4;
+  padding-bottom: 2em;
 }
+
 
 nav {
   float: right;
   display: block;
-
+  padding: 3em 3em 0 0;
 }
 
 nav a {
   font-size: 10pt;
-  color: #000000;
+  color: #222;
+  text-transform: uppercase;
   text-decoration: none;
   padding: 3em;
-  margin-right: 1em;
-  }
+}
 
 h1 {
-	
+  font-size: 16pt;  
+  color: #222;
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #DBD9D4;
 }
 
-section {
-	border:1px solid #000; /* for visualization purposes */
-	margin-bottom:1em;
-	padding:2em 0;
-}
-figure {
-	
-}
-figure img {
-
+.maincontainer {
+  height: 500px;
+  margin: 25px auto;
+  position: relative;
+  width: auto;
 }
 
-#awesomeblock {
-	float: left;
+.maincontainer figure {
+  float: left;
+  padding: 1.5em 1.5em 1.5em 1.5em;
 }
+
+footer{
+  clear: both;
+  border-top: 1px solid #DBD9D4;
+  padding: 2em 2em 0 0;
+}
+
+.footercolumns {
+  height: 200px;
+  width: 1000px;
+  float: left;
+}
+ 
 
 
 .clearfix:after { 
