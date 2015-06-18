@@ -6,7 +6,6 @@ body {
     font-family: gotham, sans-serif;
     font-size: 13px;
     line-height: 1.5;
-    
 }
 
 .wrapper {
@@ -72,8 +71,6 @@ footer{
   float: left;
 }
  
-
-
 .clearfix:after { 
    content: "."; 
    visibility: hidden; 
