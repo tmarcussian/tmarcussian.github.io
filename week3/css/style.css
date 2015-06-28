@@ -4,15 +4,13 @@ body {
     background: #FFFFFF;
     color: #222;
     font-family: gotham, sans-serif;
-    font-size: 13px;
-    line-height: 1.5;
+    font-size: 16px;
 }
 
 .wrapper {
     margin: 25px auto;
     position: relative;
-    width: 1000px;
-    max-width: 100%;
+    max-width: 1000px ;
 
 }
 
