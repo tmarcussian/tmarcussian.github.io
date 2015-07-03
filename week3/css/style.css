@@ -30,7 +30,7 @@ nav {
 }
 
 nav a {
-  font-size: 12pt;
+  font-size: 10pt;
   color: #222;
   text-transform: uppercase;
   text-decoration: none;
@@ -57,7 +57,7 @@ h1 {
   float: left;
   padding: 1em ;
   width: 33.33%;
-  position: relative;
+  position: absolute;
 }
 
 footer {
