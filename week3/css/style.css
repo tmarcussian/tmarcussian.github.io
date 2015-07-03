@@ -56,8 +56,8 @@ h1 {
 .maincontainer figure {
   float: left;
   padding:  1em 1em 1em 1em;
-  width: 33.33%;
-  
+  width: 35%;
+  position: relative;
 }
 
 footer {
