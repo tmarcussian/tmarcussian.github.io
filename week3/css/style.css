@@ -68,6 +68,7 @@ section#bottomblock {
   padding: 2em;
   width: 33.33%;
   padding-top: 3em;
+  border-right: 1px solid #DBD9D4;
 }
  
 .clearfix:after { 
