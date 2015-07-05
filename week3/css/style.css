@@ -65,14 +65,14 @@ section#bottomblock {
   padding-top: 2em;
 }
 
-.footercolumnright {
+.footercolumnleft {
   float: left;
   padding: 1em 4em;
   width: 33.33%;
   border-right: 1px solid #DBD9D4;
 }
 
-.footercolumn {
+.footercolumnright {
   float: left;
   padding: 1em 4em;
   width: 33.33%;
