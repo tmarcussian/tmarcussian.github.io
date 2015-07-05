@@ -62,7 +62,7 @@ h1 {
 
 section#bottomblock {
   border-top: 1px solid #DBD9D4;
-  padding-bottom: 3em;
+  padding-top: 3em;
 }
 
 .footercolumns {
@@ -71,7 +71,15 @@ section#bottomblock {
   width: 31.33%;
   border-right: 1px solid #DBD9D4;
 }
- 
+
+.footercolumnsright {
+  float: left;
+  padding: 1em 4em;
+  width: 31.33%;
+}
+  
+
+
 .clearfix:after { 
    content: "."; 
    visibility: hidden; 
