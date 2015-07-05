@@ -4,7 +4,7 @@ body {
     background: #FFFFFF;
     color: #222;
     font-family: gotham, sans-serif;
-    font-size: 16px;
+    font-size: 13px;
 }
 
 .wrapper {
@@ -26,7 +26,8 @@ header {
 nav {
   float: right;
   display: block;
-  padding: 3em 3em 0 0;
+  padding: 4em 2em 0 0;
+
 }
 
 nav a {
@@ -47,10 +48,10 @@ h1 {
 }
 
 .maincontainer {
-  height: 715px;
+  height: 700px;
   margin: 25px auto;
   position: relative;
-  width: auto;
+  width: 1000px;
 }
 
 .maincontainer figure {
