@@ -17,12 +17,8 @@ header {
   position: relative; 
   display: block;
   border-bottom: 1px solid #DBD9D4;
-  padding-bottom: 1.5em;
 }
- header img {
-  padding: 1em;
- }
-
+ 
 nav {
   float: right;
   display: block;
