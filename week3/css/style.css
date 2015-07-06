@@ -76,6 +76,7 @@ section#bottomblock {
   float: left;
   padding: 1em 4em;
   width: 33.33%;
+  border-right: 1px solid #DBD9D4;
 }
  
 .footercolumnright {
@@ -83,6 +84,11 @@ section#bottomblock {
   padding: 1em 4em;
   width: 33.33%;
 } 
+
+ul.social-buttons li {
+  display: inline-block;
+  width: 29.5%;
+  margin-left: 3%;
 
 .clearfix:after { 
    content: "."; 
