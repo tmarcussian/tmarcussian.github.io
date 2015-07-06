@@ -10,7 +10,7 @@ body {
 .wrapper {
     margin: 25px auto;
     position: relative;
-    max-width: 950px;
+    max-width: 1000px;
 }
 
 header {
@@ -45,7 +45,7 @@ h1 {
 }
 
 .maincontainer {
-  height: 650px;
+  height: 600px;
   margin: 25px auto;
   position: relative;
   width: auto;
