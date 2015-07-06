@@ -87,6 +87,7 @@ section#bottomblock {
 
 ul.socialbuttons li {
   display: inline-block;
+  padding-top: 1em;
 
 }
 
