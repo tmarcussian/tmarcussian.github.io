@@ -57,6 +57,10 @@ h1 {
   position: relative;
 }
 
+section#bottomblock {
+  width: 100%;
+}
+
 .footercolumnleft {
   float: left;
   padding: 1em 4em;
