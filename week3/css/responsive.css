@@ -1,28 +1,6 @@
 @media only screen and (min-width: 650px) and (max-width: 1000px) {
 	
-.wrapper {
-max-width: 650px;
-margin: 0 auto;
-}
 
-header {
-width: 80%;
-}  
- 
-nav {
-width: 80%;
-}
-
-h1 {
-width: 80%;
-}
-
-.maincontainer {
-width: 100%
-}
-
-.maincontainer figure {
-width: 100%;
 
 
 }
