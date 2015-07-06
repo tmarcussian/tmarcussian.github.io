@@ -64,9 +64,6 @@ figcaption  {
   left: 25%;
 }
 
-a figure {
-  visibility: hidden
-}
   
 figure:hover figcaption {
   color:rgba(255,255,255,1);
