@@ -67,10 +67,12 @@ figcaption  {
 figure:hover figcaption {
   color:rgba(255,255,255,1);
   background-color: #DBD9D4;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
+  position: relative;
+  opacity: 0.6;
+  top: 25%;
+  bottom: 25%;
+  right: 25%;
+  left: 25%;
 }
 
 section#bottomblock {
