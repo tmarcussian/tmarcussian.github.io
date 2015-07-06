@@ -53,9 +53,8 @@ h1 {
 
 .maincontainer figure {
   float: left;
-  padding: 1em;
+  padding: 2em;
   position: relative;
-  width: 33.33%;
 }
 
 section#bottomblock {
@@ -65,8 +64,9 @@ section#bottomblock {
 .footercolumnleft {
   float: left;
   padding: 1em 4em;
-  width: 33.33%;
+  width: 37.33%;
   border-right: 1px solid #DBD9D4;
+  margin-left: -40px;
 }
 
 .footercolumncenter {
