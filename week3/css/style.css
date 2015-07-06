@@ -17,6 +17,7 @@ header {
   position: relative; 
   display: block;
   border-bottom: 1px solid #DBD9D4;
+  padding-bottom: 1em;
 }
  
 nav {
