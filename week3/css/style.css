@@ -85,10 +85,11 @@ section#bottomblock {
   width: 33.33%;
 } 
 
-ul.social-buttons li {
+ul.socialbuttons li {
   display: inline-block;
   width: 29.5%;
   margin-left: 3%;
+}
 
 .clearfix:after { 
    content: "."; 
