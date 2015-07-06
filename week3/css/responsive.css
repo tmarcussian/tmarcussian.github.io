@@ -26,7 +26,17 @@
 	h1 {
 		font-size: 14pt;
 	}
-	section#bottomblock{
-	width: 60%;
-	}
+	
+
+.footercolumnleft {
+  width: 60%;
+}
+
+.footercolumncenter {
+  width: 60%;
+}
+ 
+.footercolumnright {
+  width: 60%;
+}
 }
