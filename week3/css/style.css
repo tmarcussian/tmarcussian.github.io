@@ -51,7 +51,7 @@ h1 {
   height: 700px;
   margin: 25px auto;
   position: relative;
-  width: 1000px;
+  width: auto;
 }
 
 .maincontainer figure {
