@@ -57,29 +57,21 @@ h1 {
   position: relative;
 }
 
-section#bottomblock {
-  width: 100%;
-}
-
 .footercolumnleft {
   float: left;
-  padding: 1em 4em;
-  width: 37.33%;
+  padding: 1em 2em;
   border-right: 1px solid #DBD9D4;
-  margin-left: -40px;
-}
+ }
 
 .footercolumncenter {
   float: left;
   padding: 1em 4em;
-  width: 33.33%;
   border-right: 1px solid #DBD9D4;
 }
  
 .footercolumnright {
   float: left;
-  padding: 1em 4em;
-  width: 33.33%;
+  padding: 1em 2em;
 } 
 
 ul.socialbuttons li {
