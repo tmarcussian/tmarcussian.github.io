@@ -58,13 +58,13 @@ h1 {
 }
 
 figcaption {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  padding: 1em;
+  background: #DBD9D4;
   color: #FFFFFF;
-  text-align: center;
-  text-transform: uppercase;
+  position: absolute;
+  left: 0
+  right: 0;
+  top: 50%;
+  bottom: 0;
 }
 
 figure:hover figcaption {
