@@ -70,7 +70,8 @@ figcaption {
 }
 
 figure:hover figcaption {
-background-color: #DBD9D4;
+  background: #DBD9D4;
+  color: #FFFFFF;
 }
 
 .footercolumnleft {
