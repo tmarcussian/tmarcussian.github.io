@@ -45,10 +45,9 @@ h1 {
 }
 
 .maincontainer {
-  height: 650px;
+  height: 600px;
   margin: 25px auto;
   position: relative;
-  width: auto;
   padding: 0px 0 0 50px;
 }
 
@@ -65,12 +64,13 @@ figcaption {
   right: 0;
   top: 50%;
   bottom: 0;
-  text-align: center;
 }
 
 figure:hover figcaption {
   background: #DBD9D4;
   color: #FFFFFF;
+  text-align: center;
+
 }
 
 .footercolumnleft {
