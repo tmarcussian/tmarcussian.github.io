@@ -70,24 +70,28 @@ figure:hover figcaption {
   background: #DBD9D4;
   color: #FFFFFF;
   text-align: center;
+
 }
 
 .footercolumnleft {
   float: left;
-  padding: 1em 2em;
   border-right: 1px solid #DBD9D4;
-  width: 31.33%;
+  width: 37.33%;
+  margin-left: 50px;
+  padding-right: 3em;
  }
 
 .footercolumncenter {
   float: left;
-  padding: 1em 4em;
-  border-right: 1px solid #DBD9D4;
+  margin-left: 20px;
+  padding-right: 2em; 
 }
  
 .footercolumnright {
   float: left;
-  padding: 1em 2em;
+  margin-left: 20px;
+  padding-right: 2em;
+  border-left: 1px solid #DBD9D4;
 } 
 
 ul.socialbuttons li {
