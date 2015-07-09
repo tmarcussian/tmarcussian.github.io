@@ -90,6 +90,7 @@ figure:hover figcaption {
 .footercolumnright {
   float: left;
   margin-left: 20px;
+  padding-left: 2em;
   border-left: 1px solid #DBD9D4;
 } 
 
