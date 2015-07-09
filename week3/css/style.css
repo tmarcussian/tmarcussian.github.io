@@ -58,6 +58,10 @@ h1 {
   margin-bottom: 25px 
 }
 
+#about {
+  margin: 40px auto;
+}
+
 figcaption {
   position: absolute;
   left: 0;
