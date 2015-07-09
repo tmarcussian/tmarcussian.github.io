@@ -64,13 +64,12 @@ figcaption {
   right: 0;
   top: 0;
   bottom: 0;
+  text-align: center;
 }
 
 figure:hover figcaption {
   background: #DBD9D4;
   color: #FFFFFF;
-  text-align: center;
-
 }
 
 .footercolumnleft {
@@ -97,6 +96,7 @@ figure:hover figcaption {
 ul.socialbuttons li {
   display: inline-block;
   padding-top: 1em;
+  padding-right: 1em;
 
 }
 
