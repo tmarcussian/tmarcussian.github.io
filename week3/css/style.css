@@ -65,6 +65,7 @@ figcaption {
   right: 0;
   top: 50%;
   bottom: 0;
+  text-align: center;
 }
 
 figure:hover figcaption {
