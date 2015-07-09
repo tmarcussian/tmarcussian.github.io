@@ -57,7 +57,7 @@ h1 {
   position: relative;
 }
 
-.overlay {
+figcaption {
   position: absolute;
   left: 0;
   right: 0;
@@ -69,7 +69,7 @@ h1 {
   text-transform: uppercase;
 }
 
-.overlay:hover {
+figure:hover figcaption {
 background-color: #DBD9D4;
 }
 
