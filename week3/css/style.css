@@ -58,6 +58,13 @@ h1 {
   margin-bottom: 25px 
 }
 
+#sidebar {
+  float: left;
+  position: relative;
+  width: 240px;
+  
+}
+
 figcaption {
   position: absolute;
   left: 0;
